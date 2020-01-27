@@ -1,2 +1,0 @@
-# SpringCloud
-Learning basic configuration
